@@ -54,3 +54,7 @@ li {
 .search-form {
   margin-bottom: 20px;
 }
+
+.netlifyLink {
+  text-align: center;
+}
